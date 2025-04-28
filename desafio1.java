@@ -1,4 +1,4 @@
-package krl_de_java;
+package _java;
 
 import java.util.Scanner;
 
